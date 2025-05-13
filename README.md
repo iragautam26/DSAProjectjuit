@@ -13,5 +13,5 @@ A simple command-line Battleship game implemented in C. The player and computer 
 - Replay option after game ends.
 
 ---
-## Game Screenshot(Screenshot_20250513_091137_Coding%20C.jpg)
+## Game Screenshot(Screenshot_20250513_202459_Coding C.jpg)
 ## How to Compile and Run
